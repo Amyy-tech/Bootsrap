@@ -1,0 +1,63 @@
+body{
+	padding-top: 70px;
+}
+h1{
+	font-family: David Libre;
+}
+p{
+	font-family: David Libre;
+}
+.jumbotron{
+	color: black;
+	background: #dcdcdc;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+
+.image1 {
+  background-image: url(https://images.unsplash.com/photo-1598532037823-2f11cc6a866c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.image2 {
+  background-image: url(https://images.unsplash.com/photo-1596978759889-91e1a654faca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.image3 {
+  background-image: url(https://images.unsplash.com/photo-1592875700813-02d219d087fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.image4 {
+  background-image: url(https://images.unsplash.com/photo-1588852732799-de793c9c63a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.image5 {
+  background-image: url(https://images.unsplash.com/photo-1584615942794-1f1ba565066c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.image6 {
+  background-image: url(https://images.unsplash.com/photo-1585282284315-cf1fff918a0f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.image7 {
+  background-image: url(https://images.unsplash.com/photo-1588774069410-84ae30757c8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.image8 {
+  background-image: url(https://images.unsplash.com/photo-1588771997096-3f1ed4b590b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.image9 {
+  background-image: url(https://images.unsplash.com/photo-1584530007341-7ccbb2778bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
